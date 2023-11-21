@@ -1,0 +1,6 @@
+
+--include data science
+--animate
+--limit scope to primary goal of EITC - Child Poverty
+--interactive/exploratory elements
+--STORY + CTA/argue a main point.

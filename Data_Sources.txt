@@ -1,0 +1,5 @@
+https://datacatalog.urban.org/dataset/safety-net-almanac-data/resource/8ecae928-c689-48cc-8953-6d4e0afc31bd#{}
+
+https://datacenter.aecf.org/data/tables/43-children-in-poverty#detailed/1/any/false/1095,2048,1729,37,871,870,573,869,36,868/any/321,322
+
+https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
