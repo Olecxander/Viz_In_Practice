@@ -1,0 +1,491 @@
+,LocationType_x,Location,TimeFrame,Children_in_Poverty,Percent_Child_Poverty,Year,EITC_id,dataset,statecode,statistic,statid,year,data,Statename,NDecimals,StateAbbrev,data_Lagged
+0,State,Alabama,2000,233000,0.21,2000,211,EIC,1,EIC_totalreturns_state,301,2000,442954.0,Alabama,2.0,AL,447392.0
+1,State,Alabama,2001,253000,0.23,2001,263,EIC,1,EIC_totalreturns_state,301,2001,447392.0,Alabama,2.0,AL,477939.0
+2,State,Alabama,2002,255000,0.24,2002,315,EIC,1,EIC_totalreturns_state,301,2002,477939.0,Alabama,2.0,AL,484769.0
+3,State,Alabama,2003,255000,0.24,2003,367,EIC,1,EIC_totalreturns_state,301,2003,484769.0,Alabama,2.0,AL,490840.0
+4,State,Alabama,2004,249000,0.23,2004,419,EIC,1,EIC_totalreturns_state,301,2004,490840.0,Alabama,2.0,AL,502914.0
+5,State,Alabama,2005,267000,0.25,2005,471,EIC,1,EIC_totalreturns_state,301,2005,502914.0,Alabama,2.0,AL,509995.0
+6,State,Alabama,2006,253000,0.23,2006,523,EIC,1,EIC_totalreturns_state,301,2006,509995.0,Alabama,2.0,AL,531511.0
+7,State,Alabama,2007,269000,0.24,2007,575,EIC,1,EIC_totalreturns_state,301,2007,531511.0,Alabama,2.0,AL,524097.0
+8,State,Alabama,2008,241000,0.22,2008,627,EIC,1,EIC_totalreturns_state,301,2008,524097.0,Alabama,2.0,AL,556438.0
+9,State,Alabama,2009,275000,0.25,2009,679,EIC,1,EIC_totalreturns_state,301,2009,556438.0,Alabama,2.0,AL,746148.0
+10,State,Alaska,2000,25000,0.13,2000,212,EIC,2,EIC_totalreturns_state,301,2000,30200.0,Alaska,2.0,AK,31532.0
+11,State,Alaska,2001,17000,0.09,2001,264,EIC,2,EIC_totalreturns_state,301,2001,31532.0,Alaska,2.0,AK,36636.0
+12,State,Alaska,2002,19000,0.1,2002,316,EIC,2,EIC_totalreturns_state,301,2002,36636.0,Alaska,2.0,AK,38730.0
+13,State,Alaska,2003,26000,0.14,2003,368,EIC,2,EIC_totalreturns_state,301,2003,38730.0,Alaska,2.0,AK,40622.0
+14,State,Alaska,2004,21000,0.11,2004,420,EIC,2,EIC_totalreturns_state,301,2004,40622.0,Alaska,2.0,AK,41578.0
+15,State,Alaska,2005,27000,0.15,2005,472,EIC,2,EIC_totalreturns_state,301,2005,41578.0,Alaska,2.0,AK,42178.0
+16,State,Alaska,2006,26000,0.15,2006,524,EIC,2,EIC_totalreturns_state,301,2006,42178.0,Alaska,2.0,AK,43162.0
+17,State,Alaska,2007,20000,0.11,2007,576,EIC,2,EIC_totalreturns_state,301,2007,43162.0,Alaska,2.0,AK,38488.0
+18,State,Alaska,2008,20000,0.11,2008,628,EIC,2,EIC_totalreturns_state,301,2008,38488.0,Alaska,2.0,AK,49958.0
+19,State,Alaska,2009,23000,0.13,2009,680,EIC,2,EIC_totalreturns_state,301,2009,49958.0,Alaska,2.0,AK,35172.0
+20,State,Arizona,2000,310000,0.23,2000,213,EIC,3,EIC_totalreturns_state,301,2000,335315.0,Arizona,2.0,AZ,345965.0
+21,State,Arizona,2001,280000,0.19,2001,265,EIC,3,EIC_totalreturns_state,301,2001,345965.0,Arizona,2.0,AZ,385768.0
+22,State,Arizona,2002,294000,0.2,2002,317,EIC,3,EIC_totalreturns_state,301,2002,385768.0,Arizona,2.0,AZ,399721.0
+23,State,Arizona,2003,314000,0.21,2003,369,EIC,3,EIC_totalreturns_state,301,2003,399721.0,Arizona,2.0,AZ,407689.0
+24,State,Arizona,2004,307000,0.2,2004,421,EIC,3,EIC_totalreturns_state,301,2004,407689.0,Arizona,2.0,AZ,413730.0
+25,State,Arizona,2005,315000,0.2,2005,473,EIC,3,EIC_totalreturns_state,301,2005,413730.0,Arizona,2.0,AZ,426022.0
+26,State,Arizona,2006,312000,0.2,2006,525,EIC,3,EIC_totalreturns_state,301,2006,426022.0,Arizona,2.0,AZ,468098.0
+27,State,Arizona,2007,331000,0.2,2007,577,EIC,3,EIC_totalreturns_state,301,2007,468098.0,Arizona,2.0,AZ,487002.0
+28,State,Arizona,2008,349000,0.21,2008,629,EIC,3,EIC_totalreturns_state,301,2008,487002.0,Arizona,2.0,AZ,553570.0
+29,State,Arizona,2009,398000,0.23,2009,681,EIC,3,EIC_totalreturns_state,301,2009,553570.0,Arizona,2.0,AZ,512802.0
+30,State,Arkansas,2000,168000,0.25,2000,214,EIC,4,EIC_totalreturns_state,301,2000,248838.0,Arkansas,2.0,AR,253779.0
+31,State,Arkansas,2001,144000,0.21,2001,266,EIC,4,EIC_totalreturns_state,301,2001,253779.0,Arkansas,2.0,AR,275662.0
+32,State,Arkansas,2002,146000,0.22,2002,318,EIC,4,EIC_totalreturns_state,301,2002,275662.0,Arkansas,2.0,AR,278230.0
+33,State,Arkansas,2003,159000,0.24,2003,370,EIC,4,EIC_totalreturns_state,301,2003,278230.0,Arkansas,2.0,AR,281721.0
+34,State,Arkansas,2004,169000,0.26,2004,422,EIC,4,EIC_totalreturns_state,301,2004,281721.0,Arkansas,2.0,AR,287085.0
+35,State,Arkansas,2005,165000,0.25,2005,474,EIC,4,EIC_totalreturns_state,301,2005,287085.0,Arkansas,2.0,AR,289410.0
+36,State,Arkansas,2006,165000,0.24,2006,526,EIC,4,EIC_totalreturns_state,301,2006,289410.0,Arkansas,2.0,AR,303618.0
+37,State,Arkansas,2007,178000,0.26,2007,578,EIC,4,EIC_totalreturns_state,301,2007,303618.0,Arkansas,2.0,AR,301909.0
+38,State,Arkansas,2008,172000,0.25,2008,630,EIC,4,EIC_totalreturns_state,301,2008,301909.0,Arkansas,2.0,AR,320832.0
+39,State,Arkansas,2009,189000,0.27,2009,682,EIC,4,EIC_totalreturns_state,301,2009,320832.0,Arkansas,2.0,AR,404698.0
+40,State,California,2000,1778000,0.2,2000,215,EIC,5,EIC_totalreturns_state,301,2000,2265569.0,California,2.0,CA,2289696.0
+41,State,California,2001,1732000,0.18,2001,267,EIC,5,EIC_totalreturns_state,301,2001,2289696.0,California,2.0,CA,2478552.0
+42,State,California,2002,1715000,0.19,2002,319,EIC,5,EIC_totalreturns_state,301,2002,2478552.0,California,2.0,CA,2510046.0
+43,State,California,2003,1753000,0.19,2003,371,EIC,5,EIC_totalreturns_state,301,2003,2510046.0,California,2.0,CA,2506646.0
+44,State,California,2004,1777000,0.19,2004,423,EIC,5,EIC_totalreturns_state,301,2004,2506646.0,California,2.0,CA,2501510.0
+45,State,California,2005,1767000,0.19,2005,475,EIC,5,EIC_totalreturns_state,301,2005,2501510.0,California,2.0,CA,2516355.0
+46,State,California,2006,1697000,0.18,2006,527,EIC,5,EIC_totalreturns_state,301,2006,2516355.0,California,2.0,CA,2729208.0
+47,State,California,2007,1591000,0.17,2007,579,EIC,5,EIC_totalreturns_state,301,2007,2729208.0,California,2.0,CA,2730012.0
+48,State,California,2008,1701000,0.18,2008,631,EIC,5,EIC_totalreturns_state,301,2008,2730012.0,California,2.0,CA,3064674.0
+49,State,California,2009,1847000,0.2,2009,683,EIC,5,EIC_totalreturns_state,301,2009,3064674.0,California,2.0,CA,3413006.0
+50,State,Colorado,2000,104000,0.1,2000,216,EIC,6,EIC_totalreturns_state,301,2000,222907.0,Colorado,2.0,CO,227224.0
+51,State,Colorado,2001,143000,0.13,2001,268,EIC,6,EIC_totalreturns_state,301,2001,227224.0,Colorado,2.0,CO,256627.0
+52,State,Colorado,2002,141000,0.12,2002,320,EIC,6,EIC_totalreturns_state,301,2002,256627.0,Colorado,2.0,CO,267260.0
+53,State,Colorado,2003,149000,0.13,2003,372,EIC,6,EIC_totalreturns_state,301,2003,267260.0,Colorado,2.0,CO,270176.0
+54,State,Colorado,2004,167000,0.15,2004,424,EIC,6,EIC_totalreturns_state,301,2004,270176.0,Colorado,2.0,CO,274839.0
+55,State,Colorado,2005,166000,0.14,2005,476,EIC,6,EIC_totalreturns_state,301,2005,274839.0,Colorado,2.0,CO,279001.0
+56,State,Colorado,2006,180000,0.16,2006,528,EIC,6,EIC_totalreturns_state,301,2006,279001.0,Colorado,2.0,CO,300892.0
+57,State,Colorado,2007,192000,0.16,2007,580,EIC,6,EIC_totalreturns_state,301,2007,300892.0,Colorado,2.0,CO,308255.0
+58,State,Colorado,2008,179000,0.15,2008,632,EIC,6,EIC_totalreturns_state,301,2008,308255.0,Colorado,2.0,CO,354374.0
+59,State,Colorado,2009,210000,0.17,2009,684,EIC,6,EIC_totalreturns_state,301,2009,354374.0,Colorado,2.0,CO,321286.0
+60,State,Connecticut,2000,94000,0.11,2000,217,EIC,7,EIC_totalreturns_state,301,2000,143136.0,Connecticut,2.0,CT,147439.0
+61,State,Connecticut,2001,82000,0.1,2001,269,EIC,7,EIC_totalreturns_state,301,2001,147439.0,Connecticut,2.0,CT,162541.0
+62,State,Connecticut,2002,87000,0.1,2002,321,EIC,7,EIC_totalreturns_state,301,2002,162541.0,Connecticut,2.0,CT,167877.0
+63,State,Connecticut,2003,91000,0.11,2003,373,EIC,7,EIC_totalreturns_state,301,2003,167877.0,Connecticut,2.0,CT,169966.0
+64,State,Connecticut,2004,87000,0.1,2004,425,EIC,7,EIC_totalreturns_state,301,2004,169966.0,Connecticut,2.0,CT,172838.0
+65,State,Connecticut,2005,95000,0.12,2005,477,EIC,7,EIC_totalreturns_state,301,2005,172838.0,Connecticut,2.0,CT,176930.0
+66,State,Connecticut,2006,89000,0.11,2006,529,EIC,7,EIC_totalreturns_state,301,2006,176930.0,Connecticut,2.0,CT,189662.0
+67,State,Connecticut,2007,89000,0.11,2007,581,EIC,7,EIC_totalreturns_state,301,2007,189662.0,Connecticut,2.0,CT,190504.0
+68,State,Connecticut,2008,100000,0.12,2008,633,EIC,7,EIC_totalreturns_state,301,2008,190504.0,Connecticut,2.0,CT,208463.0
+69,State,Connecticut,2009,97000,0.12,2009,685,EIC,7,EIC_totalreturns_state,301,2009,208463.0,Connecticut,2.0,CT,174875.0
+70,State,Delaware,2000,22000,0.12,2000,218,EIC,8,EIC_totalreturns_state,301,2000,48451.0,Delaware,2.0,DE,49638.0
+71,State,Delaware,2001,26000,0.14,2001,270,EIC,8,EIC_totalreturns_state,301,2001,49638.0,Delaware,2.0,DE,55276.0
+72,State,Delaware,2002,21000,0.11,2002,322,EIC,8,EIC_totalreturns_state,301,2002,55276.0,Delaware,2.0,DE,56939.0
+73,State,Delaware,2003,24000,0.12,2003,374,EIC,8,EIC_totalreturns_state,301,2003,56939.0,Delaware,2.0,DE,57976.0
+74,State,Delaware,2004,26000,0.14,2004,426,EIC,8,EIC_totalreturns_state,301,2004,57976.0,Delaware,2.0,DE,59692.0
+75,State,Delaware,2005,28000,0.14,2005,478,EIC,8,EIC_totalreturns_state,301,2005,59692.0,Delaware,2.0,DE,60491.0
+76,State,Delaware,2006,32000,0.16,2006,530,EIC,8,EIC_totalreturns_state,301,2006,60491.0,Delaware,2.0,DE,64685.0
+77,State,Delaware,2007,29000,0.15,2007,582,EIC,8,EIC_totalreturns_state,301,2007,64685.0,Delaware,2.0,DE,66152.0
+78,State,Delaware,2008,28000,0.14,2008,634,EIC,8,EIC_totalreturns_state,301,2008,66152.0,Delaware,2.0,DE,71167.0
+79,State,Delaware,2009,34000,0.16,2009,686,EIC,8,EIC_totalreturns_state,301,2009,71167.0,Delaware,2.0,DE,72037.0
+80,State,Florida,2000,670000,0.19,2000,220,EIC,10,EIC_totalreturns_state,301,2000,1316856.0,Florida,2.0,FL,1371025.0
+81,State,Florida,2001,652000,0.17,2001,272,EIC,10,EIC_totalreturns_state,301,2001,1371025.0,Florida,2.0,FL,1521714.0
+82,State,Florida,2002,705000,0.19,2002,324,EIC,10,EIC_totalreturns_state,301,2002,1521714.0,Florida,2.0,FL,1575803.0
+83,State,Florida,2003,728000,0.19,2003,376,EIC,10,EIC_totalreturns_state,301,2003,1575803.0,Florida,2.0,FL,1615204.0
+84,State,Florida,2004,689000,0.18,2004,428,EIC,10,EIC_totalreturns_state,301,2004,1615204.0,Florida,2.0,FL,1631758.0
+85,State,Florida,2005,713000,0.18,2005,480,EIC,10,EIC_totalreturns_state,301,2005,1631758.0,Florida,2.0,FL,1664432.0
+86,State,Florida,2006,689000,0.17,2006,532,EIC,10,EIC_totalreturns_state,301,2006,1664432.0,Florida,2.0,FL,1810981.0
+87,State,Florida,2007,678000,0.17,2007,584,EIC,10,EIC_totalreturns_state,301,2007,1810981.0,Florida,2.0,FL,1852940.0
+88,State,Florida,2008,721000,0.18,2008,636,EIC,10,EIC_totalreturns_state,301,2008,1852940.0,Florida,2.0,FL,2043671.0
+89,State,Florida,2009,852000,0.21,2009,688,EIC,10,EIC_totalreturns_state,301,2009,2043671.0,Florida,2.0,FL,1857110.0
+90,State,Georgia,2000,389000,0.18,2000,221,EIC,11,EIC_totalreturns_state,301,2000,717138.0,Georgia,2.0,GA,739224.0
+91,State,Georgia,2001,355000,0.16,2001,273,EIC,11,EIC_totalreturns_state,301,2001,739224.0,Georgia,2.0,GA,814412.0
+92,State,Georgia,2002,395000,0.18,2002,325,EIC,11,EIC_totalreturns_state,301,2002,814412.0,Georgia,2.0,GA,845172.0
+93,State,Georgia,2003,420000,0.19,2003,377,EIC,11,EIC_totalreturns_state,301,2003,845172.0,Georgia,2.0,GA,865368.0
+94,State,Georgia,2004,484000,0.21,2004,429,EIC,11,EIC_totalreturns_state,301,2004,865368.0,Georgia,2.0,GA,905365.0
+95,State,Georgia,2005,469000,0.2,2005,481,EIC,11,EIC_totalreturns_state,301,2005,905365.0,Georgia,2.0,GA,935580.0
+96,State,Georgia,2006,485000,0.2,2006,533,EIC,11,EIC_totalreturns_state,301,2006,935580.0,Georgia,2.0,GA,1006290.0
+97,State,Georgia,2007,490000,0.2,2007,585,EIC,11,EIC_totalreturns_state,301,2007,1006290.0,Georgia,2.0,GA,1022957.0
+98,State,Georgia,2008,502000,0.2,2008,637,EIC,11,EIC_totalreturns_state,301,2008,1022957.0,Georgia,2.0,GA,1104535.0
+99,State,Georgia,2009,568000,0.22,2009,689,EIC,11,EIC_totalreturns_state,301,2009,1104535.0,Georgia,2.0,GA,1076620.0
+100,State,Hawaii,2000,37000,0.13,2000,222,EIC,12,EIC_totalreturns_state,301,2000,67500.0,Hawaii,2.0,HI,71275.0
+101,State,Hawaii,2001,42000,0.14,2001,274,EIC,12,EIC_totalreturns_state,301,2001,71275.0,Hawaii,2.0,HI,83741.0
+102,State,Hawaii,2002,40000,0.14,2002,326,EIC,12,EIC_totalreturns_state,301,2002,83741.0,Hawaii,2.0,HI,85590.0
+103,State,Hawaii,2003,44000,0.15,2003,378,EIC,12,EIC_totalreturns_state,301,2003,85590.0,Hawaii,2.0,HI,88732.0
+104,State,Hawaii,2004,42000,0.14,2004,430,EIC,12,EIC_totalreturns_state,301,2004,88732.0,Hawaii,2.0,HI,87540.0
+105,State,Hawaii,2005,37000,0.13,2005,482,EIC,12,EIC_totalreturns_state,301,2005,87540.0,Hawaii,2.0,HI,88957.0
+106,State,Hawaii,2006,33000,0.11,2006,534,EIC,12,EIC_totalreturns_state,301,2006,88957.0,Hawaii,2.0,HI,96043.0
+107,State,Hawaii,2007,28000,0.1,2007,586,EIC,12,EIC_totalreturns_state,301,2007,96043.0,Hawaii,2.0,HI,97062.0
+108,State,Hawaii,2008,28000,0.1,2008,638,EIC,12,EIC_totalreturns_state,301,2008,97062.0,Hawaii,2.0,HI,108449.0
+109,State,Hawaii,2009,39000,0.14,2009,690,EIC,12,EIC_totalreturns_state,301,2009,108449.0,Hawaii,2.0,HI,72081.0
+110,State,Idaho,2000,51000,0.14,2000,223,EIC,13,EIC_totalreturns_state,301,2000,81278.0,Idaho,2.0,ID,85316.0
+111,State,Idaho,2001,56000,0.15,2001,275,EIC,13,EIC_totalreturns_state,301,2001,85316.0,Idaho,2.0,ID,97659.0
+112,State,Idaho,2002,57000,0.16,2002,327,EIC,13,EIC_totalreturns_state,301,2002,97659.0,Idaho,2.0,ID,101277.0
+113,State,Idaho,2003,65000,0.18,2003,379,EIC,13,EIC_totalreturns_state,301,2003,101277.0,Idaho,2.0,ID,103397.0
+114,State,Idaho,2004,71000,0.2,2004,431,EIC,13,EIC_totalreturns_state,301,2004,103397.0,Idaho,2.0,ID,106143.0
+115,State,Idaho,2005,65000,0.18,2005,483,EIC,13,EIC_totalreturns_state,301,2005,106143.0,Idaho,2.0,ID,106991.0
+116,State,Idaho,2006,58000,0.15,2006,535,EIC,13,EIC_totalreturns_state,301,2006,106991.0,Idaho,2.0,ID,115917.0
+117,State,Idaho,2007,64000,0.16,2007,587,EIC,13,EIC_totalreturns_state,301,2007,115917.0,Idaho,2.0,ID,120054.0
+118,State,Idaho,2008,64000,0.16,2008,639,EIC,13,EIC_totalreturns_state,301,2008,120054.0,Idaho,2.0,ID,138860.0
+119,State,Idaho,2009,75000,0.18,2009,691,EIC,13,EIC_totalreturns_state,301,2009,138860.0,Idaho,2.0,ID,116619.0
+120,State,Illinois,2000,489000,0.15,2000,224,EIC,14,EIC_totalreturns_state,301,2000,755305.0,Illinois,2.0,IL,769690.0
+121,State,Illinois,2001,474000,0.15,2001,276,EIC,14,EIC_totalreturns_state,301,2001,769690.0,Illinois,2.0,IL,837255.0
+122,State,Illinois,2002,511000,0.16,2002,328,EIC,14,EIC_totalreturns_state,301,2002,837255.0,Illinois,2.0,IL,855109.0
+123,State,Illinois,2003,500000,0.16,2003,380,EIC,14,EIC_totalreturns_state,301,2003,855109.0,Illinois,2.0,IL,867646.0
+124,State,Illinois,2004,535000,0.17,2004,432,EIC,14,EIC_totalreturns_state,301,2004,867646.0,Illinois,2.0,IL,884010.0
+125,State,Illinois,2005,525000,0.16,2005,484,EIC,14,EIC_totalreturns_state,301,2005,884010.0,Illinois,2.0,IL,894550.0
+126,State,Illinois,2006,543000,0.17,2006,536,EIC,14,EIC_totalreturns_state,301,2006,894550.0,Illinois,2.0,IL,946867.0
+127,State,Illinois,2007,525000,0.17,2007,588,EIC,14,EIC_totalreturns_state,301,2007,946867.0,Illinois,2.0,IL,954070.0
+128,State,Illinois,2008,535000,0.17,2008,640,EIC,14,EIC_totalreturns_state,301,2008,954070.0,Illinois,2.0,IL,1035292.0
+129,State,Illinois,2009,591000,0.19,2009,692,EIC,14,EIC_totalreturns_state,301,2009,1035292.0,Illinois,2.0,IL,1065814.0
+130,State,Indiana,2000,220000,0.14,2000,225,EIC,15,EIC_totalreturns_state,301,2000,361359.0,Indiana,2.0,IN,373810.0
+131,State,Indiana,2001,185000,0.13,2001,277,EIC,15,EIC_totalreturns_state,301,2001,373810.0,Indiana,2.0,IN,414869.0
+132,State,Indiana,2002,231000,0.15,2002,329,EIC,15,EIC_totalreturns_state,301,2002,414869.0,Indiana,2.0,IN,425837.0
+133,State,Indiana,2003,213000,0.14,2003,381,EIC,15,EIC_totalreturns_state,301,2003,425837.0,Indiana,2.0,IN,434730.0
+134,State,Indiana,2004,234000,0.15,2004,433,EIC,15,EIC_totalreturns_state,301,2004,434730.0,Indiana,2.0,IN,446347.0
+135,State,Indiana,2005,260000,0.17,2005,485,EIC,15,EIC_totalreturns_state,301,2005,446347.0,Indiana,2.0,IN,459366.0
+136,State,Indiana,2006,277000,0.18,2006,537,EIC,15,EIC_totalreturns_state,301,2006,459366.0,Indiana,2.0,IN,492353.0
+137,State,Indiana,2007,268000,0.17,2007,589,EIC,15,EIC_totalreturns_state,301,2007,492353.0,Indiana,2.0,IN,504631.0
+138,State,Indiana,2008,283000,0.18,2008,641,EIC,15,EIC_totalreturns_state,301,2008,504631.0,Indiana,2.0,IN,555257.0
+139,State,Indiana,2009,311000,0.2,2009,693,EIC,15,EIC_totalreturns_state,301,2009,555257.0,Indiana,2.0,IN,528233.0
+140,State,Iowa,2000,95000,0.13,2000,226,EIC,16,EIC_totalreturns_state,301,2000,143624.0,Iowa,2.0,IA,148182.0
+141,State,Iowa,2001,89000,0.13,2001,278,EIC,16,EIC_totalreturns_state,301,2001,148182.0,Iowa,2.0,IA,167854.0
+142,State,Iowa,2002,95000,0.14,2002,330,EIC,16,EIC_totalreturns_state,301,2002,167854.0,Iowa,2.0,IA,172426.0
+143,State,Iowa,2003,82000,0.12,2003,382,EIC,16,EIC_totalreturns_state,301,2003,172426.0,Iowa,2.0,IA,173109.0
+144,State,Iowa,2004,83000,0.12,2004,434,EIC,16,EIC_totalreturns_state,301,2004,173109.0,Iowa,2.0,IA,177348.0
+145,State,Iowa,2005,92000,0.14,2005,486,EIC,16,EIC_totalreturns_state,301,2005,177348.0,Iowa,2.0,IA,181921.0
+146,State,Iowa,2006,96000,0.14,2006,538,EIC,16,EIC_totalreturns_state,301,2006,181921.0,Iowa,2.0,IA,194557.0
+147,State,Iowa,2007,95000,0.14,2007,590,EIC,16,EIC_totalreturns_state,301,2007,194557.0,Iowa,2.0,IA,194022.0
+148,State,Iowa,2008,101000,0.14,2008,642,EIC,16,EIC_totalreturns_state,301,2008,194022.0,Iowa,2.0,IA,217232.0
+149,State,Iowa,2009,109000,0.16,2009,694,EIC,16,EIC_totalreturns_state,301,2009,217232.0,Iowa,2.0,IA,209342.0
+150,State,Kansas,2000,80000,0.12,2000,227,EIC,17,EIC_totalreturns_state,301,2000,144236.0,Kansas,2.0,KS,148105.0
+151,State,Kansas,2001,85000,0.13,2001,279,EIC,17,EIC_totalreturns_state,301,2001,148105.0,Kansas,2.0,KS,171112.0
+152,State,Kansas,2002,111000,0.16,2002,331,EIC,17,EIC_totalreturns_state,301,2002,171112.0,Kansas,2.0,KS,177484.0
+153,State,Kansas,2003,96000,0.14,2003,383,EIC,17,EIC_totalreturns_state,301,2003,177484.0,Kansas,2.0,KS,178744.0
+154,State,Kansas,2004,84000,0.12,2004,435,EIC,17,EIC_totalreturns_state,301,2004,178744.0,Kansas,2.0,KS,181348.0
+155,State,Kansas,2005,100000,0.15,2005,487,EIC,17,EIC_totalreturns_state,301,2005,181348.0,Kansas,2.0,KS,183356.0
+156,State,Kansas,2006,107000,0.16,2006,539,EIC,17,EIC_totalreturns_state,301,2006,183356.0,Kansas,2.0,KS,195798.0
+157,State,Kansas,2007,100000,0.15,2007,591,EIC,17,EIC_totalreturns_state,301,2007,195798.0,Kansas,2.0,KS,195577.0
+158,State,Kansas,2008,100000,0.15,2008,643,EIC,17,EIC_totalreturns_state,301,2008,195577.0,Kansas,2.0,KS,219533.0
+159,State,Kansas,2009,121000,0.18,2009,695,EIC,17,EIC_totalreturns_state,301,2009,219533.0,Kansas,2.0,KS,208105.0
+160,State,Kentucky,2000,209000,0.22,2000,228,EIC,18,EIC_totalreturns_state,301,2000,299343.0,Kentucky,2.0,KY,304572.0
+161,State,Kentucky,2001,183000,0.19,2001,280,EIC,18,EIC_totalreturns_state,301,2001,304572.0,Kentucky,2.0,KY,335192.0
+162,State,Kentucky,2002,190000,0.21,2002,332,EIC,18,EIC_totalreturns_state,301,2002,335192.0,Kentucky,2.0,KY,342656.0
+163,State,Kentucky,2003,234000,0.24,2003,384,EIC,18,EIC_totalreturns_state,301,2003,342656.0,Kentucky,2.0,KY,345391.0
+164,State,Kentucky,2004,240000,0.25,2004,436,EIC,18,EIC_totalreturns_state,301,2004,345391.0,Kentucky,2.0,KY,352878.0
+165,State,Kentucky,2005,216000,0.22,2005,488,EIC,18,EIC_totalreturns_state,301,2005,352878.0,Kentucky,2.0,KY,361063.0
+166,State,Kentucky,2006,223000,0.23,2006,540,EIC,18,EIC_totalreturns_state,301,2006,361063.0,Kentucky,2.0,KY,384236.0
+167,State,Kentucky,2007,235000,0.24,2007,592,EIC,18,EIC_totalreturns_state,301,2007,384236.0,Kentucky,2.0,KY,386058.0
+168,State,Kentucky,2008,233000,0.23,2008,644,EIC,18,EIC_totalreturns_state,301,2008,386058.0,Kentucky,2.0,KY,415723.0
+169,State,Kentucky,2009,255000,0.26,2009,696,EIC,18,EIC_totalreturns_state,301,2009,415723.0,Kentucky,2.0,KY,431216.0
+170,State,Louisiana,2000,326000,0.27,2000,229,EIC,19,EIC_totalreturns_state,301,2000,481637.0,Louisiana,2.0,LA,488473.0
+171,State,Louisiana,2001,327000,0.27,2001,281,EIC,19,EIC_totalreturns_state,301,2001,488473.0,Louisiana,2.0,LA,525255.0
+172,State,Louisiana,2002,319000,0.27,2002,333,EIC,19,EIC_totalreturns_state,301,2002,525255.0,Louisiana,2.0,LA,534828.0
+173,State,Louisiana,2003,344000,0.3,2003,385,EIC,19,EIC_totalreturns_state,301,2003,534828.0,Louisiana,2.0,LA,539451.0
+174,State,Louisiana,2004,343000,0.3,2004,437,EIC,19,EIC_totalreturns_state,301,2004,539451.0,Louisiana,2.0,LA,494289.0
+175,State,Louisiana,2005,319000,0.28,2005,489,EIC,19,EIC_totalreturns_state,301,2005,494289.0,Louisiana,2.0,LA,510348.0
+176,State,Louisiana,2006,298000,0.28,2006,541,EIC,19,EIC_totalreturns_state,301,2006,510348.0,Louisiana,2.0,LA,526030.0
+177,State,Louisiana,2007,283000,0.27,2007,593,EIC,19,EIC_totalreturns_state,301,2007,526030.0,Louisiana,2.0,LA,516934.0
+178,State,Louisiana,2008,271000,0.25,2008,645,EIC,19,EIC_totalreturns_state,301,2008,516934.0,Louisiana,2.0,LA,550402.0
+179,State,Louisiana,2009,268000,0.24,2009,697,EIC,19,EIC_totalreturns_state,301,2009,550402.0,Louisiana,2.0,LA,813128.0
+180,State,Maine,2000,34000,0.12,2000,230,EIC,20,EIC_totalreturns_state,301,2000,75192.0,Maine,2.0,ME,76343.0
+181,State,Maine,2001,29000,0.11,2001,282,EIC,20,EIC_totalreturns_state,301,2001,76343.0,Maine,2.0,ME,85204.0
+182,State,Maine,2002,44000,0.16,2002,334,EIC,20,EIC_totalreturns_state,301,2002,85204.0,Maine,2.0,ME,86942.0
+183,State,Maine,2003,37000,0.13,2003,386,EIC,20,EIC_totalreturns_state,301,2003,86942.0,Maine,2.0,ME,87148.0
+184,State,Maine,2004,47000,0.17,2004,438,EIC,20,EIC_totalreturns_state,301,2004,87148.0,Maine,2.0,ME,88923.0
+185,State,Maine,2005,47000,0.17,2005,490,EIC,20,EIC_totalreturns_state,301,2005,88923.0,Maine,2.0,ME,90254.0
+186,State,Maine,2006,48000,0.18,2006,542,EIC,20,EIC_totalreturns_state,301,2006,90254.0,Maine,2.0,ME,96183.0
+187,State,Maine,2007,42000,0.15,2007,594,EIC,20,EIC_totalreturns_state,301,2007,96183.0,Maine,2.0,ME,94901.0
+188,State,Maine,2008,42000,0.16,2008,646,EIC,20,EIC_totalreturns_state,301,2008,94901.0,Maine,2.0,ME,105443.0
+189,State,Maine,2009,45000,0.17,2009,698,EIC,20,EIC_totalreturns_state,301,2009,105443.0,Maine,2.0,ME,108379.0
+190,State,Maryland,2000,178000,0.13,2000,231,EIC,21,EIC_totalreturns_state,301,2000,310997.0,Maryland,2.0,MD,312451.0
+191,State,Maryland,2001,149000,0.11,2001,283,EIC,21,EIC_totalreturns_state,301,2001,312451.0,Maryland,2.0,MD,341783.0
+192,State,Maryland,2002,152000,0.11,2002,335,EIC,21,EIC_totalreturns_state,301,2002,341783.0,Maryland,2.0,MD,349585.0
+193,State,Maryland,2003,140000,0.1,2003,387,EIC,21,EIC_totalreturns_state,301,2003,349585.0,Maryland,2.0,MD,349544.0
+194,State,Maryland,2004,155000,0.11,2004,439,EIC,21,EIC_totalreturns_state,301,2004,349544.0,Maryland,2.0,MD,352221.0
+195,State,Maryland,2005,148000,0.11,2005,491,EIC,21,EIC_totalreturns_state,301,2005,352221.0,Maryland,2.0,MD,353488.0
+196,State,Maryland,2006,130000,0.1,2006,543,EIC,21,EIC_totalreturns_state,301,2006,353488.0,Maryland,2.0,MD,372774.0
+197,State,Maryland,2007,140000,0.1,2007,595,EIC,21,EIC_totalreturns_state,301,2007,372774.0,Maryland,2.0,MD,375444.0
+198,State,Maryland,2008,135000,0.1,2008,647,EIC,21,EIC_totalreturns_state,301,2008,375444.0,Maryland,2.0,MD,405867.0
+199,State,Maryland,2009,154000,0.12,2009,699,EIC,21,EIC_totalreturns_state,301,2009,405867.0,Maryland,2.0,MD,480900.0
+200,State,Massachusetts,2000,205000,0.14,2000,232,EIC,22,EIC_totalreturns_state,301,2000,263809.0,Massachusetts,2.0,MA,268718.0
+201,State,Massachusetts,2001,161000,0.12,2001,284,EIC,22,EIC_totalreturns_state,301,2001,268718.0,Massachusetts,2.0,MA,296411.0
+202,State,Massachusetts,2002,177000,0.12,2002,336,EIC,22,EIC_totalreturns_state,301,2002,296411.0,Massachusetts,2.0,MA,307954.0
+203,State,Massachusetts,2003,180000,0.12,2003,388,EIC,22,EIC_totalreturns_state,301,2003,307954.0,Massachusetts,2.0,MA,313694.0
+204,State,Massachusetts,2004,180000,0.13,2004,440,EIC,22,EIC_totalreturns_state,301,2004,313694.0,Massachusetts,2.0,MA,319973.0
+205,State,Massachusetts,2005,194000,0.14,2005,492,EIC,22,EIC_totalreturns_state,301,2005,319973.0,Massachusetts,2.0,MA,325502.0
+206,State,Massachusetts,2006,178000,0.12,2006,544,EIC,22,EIC_totalreturns_state,301,2006,325502.0,Massachusetts,2.0,MA,348577.0
+207,State,Massachusetts,2007,182000,0.13,2007,596,EIC,22,EIC_totalreturns_state,301,2007,348577.0,Massachusetts,2.0,MA,353061.0
+208,State,Massachusetts,2008,169000,0.12,2008,648,EIC,22,EIC_totalreturns_state,301,2008,353061.0,Massachusetts,2.0,MA,390289.0
+209,State,Massachusetts,2009,186000,0.13,2009,700,EIC,22,EIC_totalreturns_state,301,2009,390289.0,Massachusetts,2.0,MA,341731.0
+210,State,Michigan,2000,354000,0.14,2000,233,EIC,23,EIC_totalreturns_state,301,2000,549864.0,Michigan,2.0,MI,572210.0
+211,State,Michigan,2001,352000,0.15,2001,285,EIC,23,EIC_totalreturns_state,301,2001,572210.0,Michigan,2.0,MI,627394.0
+212,State,Michigan,2002,393000,0.16,2002,337,EIC,23,EIC_totalreturns_state,301,2002,627394.0,Michigan,2.0,MI,644881.0
+213,State,Michigan,2003,390000,0.16,2003,389,EIC,23,EIC_totalreturns_state,301,2003,644881.0,Michigan,2.0,MI,662912.0
+214,State,Michigan,2004,439000,0.18,2004,441,EIC,23,EIC_totalreturns_state,301,2004,662912.0,Michigan,2.0,MI,680765.0
+215,State,Michigan,2005,459000,0.19,2005,493,EIC,23,EIC_totalreturns_state,301,2005,680765.0,Michigan,2.0,MI,702251.0
+216,State,Michigan,2006,445000,0.18,2006,545,EIC,23,EIC_totalreturns_state,301,2006,702251.0,Michigan,2.0,MI,750743.0
+217,State,Michigan,2007,468000,0.19,2007,597,EIC,23,EIC_totalreturns_state,301,2007,750743.0,Michigan,2.0,MI,758244.0
+218,State,Michigan,2008,458000,0.19,2008,649,EIC,23,EIC_totalreturns_state,301,2008,758244.0,Michigan,2.0,MI,833909.0
+219,State,Michigan,2009,520000,0.23,2009,701,EIC,23,EIC_totalreturns_state,301,2009,833909.0,Michigan,2.0,MI,778139.0
+220,State,Minnesota,2000,114000,0.09,2000,234,EIC,24,EIC_totalreturns_state,301,2000,209999.0,Minnesota,2.0,MN,218063.0
+221,State,Minnesota,2001,125000,0.11,2001,286,EIC,24,EIC_totalreturns_state,301,2001,218063.0,Minnesota,2.0,MN,248357.0
+222,State,Minnesota,2002,144000,0.12,2002,338,EIC,24,EIC_totalreturns_state,301,2002,248357.0,Minnesota,2.0,MN,258529.0
+223,State,Minnesota,2003,116000,0.09,2003,390,EIC,24,EIC_totalreturns_state,301,2003,258529.0,Minnesota,2.0,MN,263568.0
+224,State,Minnesota,2004,130000,0.11,2004,442,EIC,24,EIC_totalreturns_state,301,2004,263568.0,Minnesota,2.0,MN,272171.0
+225,State,Minnesota,2005,140000,0.12,2005,494,EIC,24,EIC_totalreturns_state,301,2005,272171.0,Minnesota,2.0,MN,281927.0
+226,State,Minnesota,2006,152000,0.12,2006,546,EIC,24,EIC_totalreturns_state,301,2006,281927.0,Minnesota,2.0,MN,304600.0
+227,State,Minnesota,2007,149000,0.12,2007,598,EIC,24,EIC_totalreturns_state,301,2007,304600.0,Minnesota,2.0,MN,308262.0
+228,State,Minnesota,2008,140000,0.11,2008,650,EIC,24,EIC_totalreturns_state,301,2008,308262.0,Minnesota,2.0,MN,347149.0
+229,State,Minnesota,2009,174000,0.14,2009,702,EIC,24,EIC_totalreturns_state,301,2009,347149.0,Minnesota,2.0,MN,282797.0
+230,State,Mississippi,2000,199000,0.26,2000,235,EIC,25,EIC_totalreturns_state,301,2000,345172.0,Mississippi,2.0,MS,347251.0
+231,State,Mississippi,2001,198000,0.26,2001,287,EIC,25,EIC_totalreturns_state,301,2001,347251.0,Mississippi,2.0,MS,369767.0
+232,State,Mississippi,2002,214000,0.29,2002,339,EIC,25,EIC_totalreturns_state,301,2002,369767.0,Mississippi,2.0,MS,372725.0
+233,State,Mississippi,2003,214000,0.29,2003,391,EIC,25,EIC_totalreturns_state,301,2003,372725.0,Mississippi,2.0,MS,374257.0
+234,State,Mississippi,2004,228000,0.31,2004,443,EIC,25,EIC_totalreturns_state,301,2004,374257.0,Mississippi,2.0,MS,376998.0
+235,State,Mississippi,2005,226000,0.31,2005,495,EIC,25,EIC_totalreturns_state,301,2005,376998.0,Mississippi,2.0,MS,388628.0
+236,State,Mississippi,2006,220000,0.3,2006,547,EIC,25,EIC_totalreturns_state,301,2006,388628.0,Mississippi,2.0,MS,402114.0
+237,State,Mississippi,2007,220000,0.29,2007,599,EIC,25,EIC_totalreturns_state,301,2007,402114.0,Mississippi,2.0,MS,398579.0
+238,State,Mississippi,2008,229000,0.3,2008,651,EIC,25,EIC_totalreturns_state,301,2008,398579.0,Mississippi,2.0,MS,419192.0
+239,State,Mississippi,2009,233000,0.31,2009,703,EIC,25,EIC_totalreturns_state,301,2009,419192.0,Mississippi,2.0,MS,608481.0
+240,State,Missouri,2000,221000,0.16,2000,236,EIC,26,EIC_totalreturns_state,301,2000,378195.0,Missouri,2.0,MO,384532.0
+241,State,Missouri,2001,224000,0.16,2001,288,EIC,26,EIC_totalreturns_state,301,2001,384532.0,Missouri,2.0,MO,423787.0
+242,State,Missouri,2002,227000,0.17,2002,340,EIC,26,EIC_totalreturns_state,301,2002,423787.0,Missouri,2.0,MO,436100.0
+243,State,Missouri,2003,217000,0.16,2003,392,EIC,26,EIC_totalreturns_state,301,2003,436100.0,Missouri,2.0,MO,443808.0
+244,State,Missouri,2004,220000,0.16,2004,444,EIC,26,EIC_totalreturns_state,301,2004,443808.0,Missouri,2.0,MO,451570.0
+245,State,Missouri,2005,256000,0.19,2005,496,EIC,26,EIC_totalreturns_state,301,2005,451570.0,Missouri,2.0,MO,462720.0
+246,State,Missouri,2006,260000,0.19,2006,548,EIC,26,EIC_totalreturns_state,301,2006,462720.0,Missouri,2.0,MO,489777.0
+247,State,Missouri,2007,248000,0.18,2007,600,EIC,26,EIC_totalreturns_state,301,2007,489777.0,Missouri,2.0,MO,489968.0
+248,State,Missouri,2008,259000,0.19,2008,652,EIC,26,EIC_totalreturns_state,301,2008,489968.0,Missouri,2.0,MO,533360.0
+249,State,Missouri,2009,291000,0.21,2009,704,EIC,26,EIC_totalreturns_state,301,2009,533360.0,Missouri,2.0,MO,567873.0
+250,State,Montana,2000,37000,0.17,2000,237,EIC,27,EIC_totalreturns_state,301,2000,64610.0,Montana,2.0,MT,65924.0
+251,State,Montana,2001,45000,0.2,2001,289,EIC,27,EIC_totalreturns_state,301,2001,65924.0,Montana,2.0,MT,73372.0
+252,State,Montana,2002,41000,0.2,2002,341,EIC,27,EIC_totalreturns_state,301,2002,73372.0,Montana,2.0,MT,74495.0
+253,State,Montana,2003,38000,0.18,2003,393,EIC,27,EIC_totalreturns_state,301,2003,74495.0,Montana,2.0,MT,74621.0
+254,State,Montana,2004,39000,0.19,2004,445,EIC,27,EIC_totalreturns_state,301,2004,74621.0,Montana,2.0,MT,74627.0
+255,State,Montana,2005,40000,0.2,2005,497,EIC,27,EIC_totalreturns_state,301,2005,74627.0,Montana,2.0,MT,74544.0
+256,State,Montana,2006,37000,0.17,2006,549,EIC,27,EIC_totalreturns_state,301,2006,74544.0,Montana,2.0,MT,77920.0
+257,State,Montana,2007,40000,0.18,2007,601,EIC,27,EIC_totalreturns_state,301,2007,77920.0,Montana,2.0,MT,78427.0
+258,State,Montana,2008,45000,0.21,2008,653,EIC,27,EIC_totalreturns_state,301,2008,78427.0,Montana,2.0,MT,88062.0
+259,State,Montana,2009,46000,0.21,2009,705,EIC,27,EIC_totalreturns_state,301,2009,88062.0,Montana,2.0,MT,91715.0
+260,State,Nebraska,2000,46000,0.1,2000,238,EIC,28,EIC_totalreturns_state,301,2000,90518.0,Nebraska,2.0,NE,94290.0
+261,State,Nebraska,2001,59000,0.14,2001,290,EIC,28,EIC_totalreturns_state,301,2001,94290.0,Nebraska,2.0,NE,108289.0
+262,State,Nebraska,2002,58000,0.14,2002,342,EIC,28,EIC_totalreturns_state,301,2002,108289.0,Nebraska,2.0,NE,110383.0
+263,State,Nebraska,2003,54000,0.13,2003,394,EIC,28,EIC_totalreturns_state,301,2003,110383.0,Nebraska,2.0,NE,111738.0
+264,State,Nebraska,2004,56000,0.13,2004,446,EIC,28,EIC_totalreturns_state,301,2004,111738.0,Nebraska,2.0,NE,113877.0
+265,State,Nebraska,2005,63000,0.15,2005,498,EIC,28,EIC_totalreturns_state,301,2005,113877.0,Nebraska,2.0,NE,115764.0
+266,State,Nebraska,2006,63000,0.14,2006,550,EIC,28,EIC_totalreturns_state,301,2006,115764.0,Nebraska,2.0,NE,123144.0
+267,State,Nebraska,2007,65000,0.15,2007,602,EIC,28,EIC_totalreturns_state,301,2007,123144.0,Nebraska,2.0,NE,122890.0
+268,State,Nebraska,2008,58000,0.13,2008,654,EIC,28,EIC_totalreturns_state,301,2008,122890.0,Nebraska,2.0,NE,137476.0
+269,State,Nebraska,2009,66000,0.15,2009,706,EIC,28,EIC_totalreturns_state,301,2009,137476.0,Nebraska,2.0,NE,136999.0
+270,State,Nevada,2000,65000,0.13,2000,239,EIC,29,EIC_totalreturns_state,301,2000,128750.0,Nevada,2.0,NV,135725.0
+271,State,Nevada,2001,81000,0.15,2001,291,EIC,29,EIC_totalreturns_state,301,2001,135725.0,Nevada,2.0,NV,153487.0
+272,State,Nevada,2002,95000,0.17,2002,343,EIC,29,EIC_totalreturns_state,301,2002,153487.0,Nevada,2.0,NV,160089.0
+273,State,Nevada,2003,86000,0.15,2003,395,EIC,29,EIC_totalreturns_state,301,2003,160089.0,Nevada,2.0,NV,163974.0
+274,State,Nevada,2004,111000,0.19,2004,447,EIC,29,EIC_totalreturns_state,301,2004,163974.0,Nevada,2.0,NV,169055.0
+275,State,Nevada,2005,90000,0.15,2005,499,EIC,29,EIC_totalreturns_state,301,2005,169055.0,Nevada,2.0,NV,174873.0
+276,State,Nevada,2006,87000,0.14,2006,551,EIC,29,EIC_totalreturns_state,301,2006,174873.0,Nevada,2.0,NV,192465.0
+277,State,Nevada,2007,100000,0.15,2007,603,EIC,29,EIC_totalreturns_state,301,2007,192465.0,Nevada,2.0,NV,196012.0
+278,State,Nevada,2008,99000,0.15,2008,655,EIC,29,EIC_totalreturns_state,301,2008,196012.0,Nevada,2.0,NV,224749.0
+279,State,Nevada,2009,118000,0.18,2009,707,EIC,29,EIC_totalreturns_state,301,2009,224749.0,Nevada,2.0,NV,161108.0
+280,State,New Jersey,2000,213000,0.1,2000,241,EIC,31,EIC_totalreturns_state,301,2000,440175.0,New Jersey,2.0,NJ,452848.0
+281,State,New Jersey,2001,209000,0.11,2001,293,EIC,31,EIC_totalreturns_state,301,2001,452848.0,New Jersey,2.0,NJ,486811.0
+282,State,New Jersey,2002,224000,0.11,2002,345,EIC,31,EIC_totalreturns_state,301,2002,486811.0,New Jersey,2.0,NJ,495578.0
+283,State,New Jersey,2003,246000,0.12,2003,397,EIC,31,EIC_totalreturns_state,301,2003,495578.0,New Jersey,2.0,NJ,496813.0
+284,State,New Jersey,2004,251000,0.12,2004,449,EIC,31,EIC_totalreturns_state,301,2004,496813.0,New Jersey,2.0,NJ,501105.0
+285,State,New Jersey,2005,252000,0.12,2005,501,EIC,31,EIC_totalreturns_state,301,2005,501105.0,New Jersey,2.0,NJ,503616.0
+286,State,New Jersey,2006,244000,0.12,2006,553,EIC,31,EIC_totalreturns_state,301,2006,503616.0,New Jersey,2.0,NJ,531751.0
+287,State,New Jersey,2007,236000,0.12,2007,605,EIC,31,EIC_totalreturns_state,301,2007,531751.0,New Jersey,2.0,NJ,535511.0
+288,State,New Jersey,2008,253000,0.13,2008,657,EIC,31,EIC_totalreturns_state,301,2008,535511.0,New Jersey,2.0,NJ,576197.0
+289,State,New Jersey,2009,273000,0.13,2009,709,EIC,31,EIC_totalreturns_state,301,2009,576197.0,New Jersey,2.0,NJ,616860.0
+290,State,New Mexico,2000,132000,0.26,2000,242,EIC,32,EIC_totalreturns_state,301,2000,174027.0,New Mexico,2.0,NM,182647.0
+291,State,New Mexico,2001,117000,0.24,2001,294,EIC,32,EIC_totalreturns_state,301,2001,182647.0,New Mexico,2.0,NM,195404.0
+292,State,New Mexico,2002,133000,0.27,2002,346,EIC,32,EIC_totalreturns_state,301,2002,195404.0,New Mexico,2.0,NM,198576.0
+293,State,New Mexico,2003,125000,0.26,2003,398,EIC,32,EIC_totalreturns_state,301,2003,198576.0,New Mexico,2.0,NM,199552.0
+294,State,New Mexico,2004,134000,0.28,2004,450,EIC,32,EIC_totalreturns_state,301,2004,199552.0,New Mexico,2.0,NM,199825.0
+295,State,New Mexico,2005,124000,0.26,2005,502,EIC,32,EIC_totalreturns_state,301,2005,199825.0,New Mexico,2.0,NM,200322.0
+296,State,New Mexico,2006,128000,0.26,2006,554,EIC,32,EIC_totalreturns_state,301,2006,200322.0,New Mexico,2.0,NM,210318.0
+297,State,New Mexico,2007,124000,0.25,2007,606,EIC,32,EIC_totalreturns_state,301,2007,210318.0,New Mexico,2.0,NM,210347.0
+298,State,New Mexico,2008,119000,0.24,2008,658,EIC,32,EIC_totalreturns_state,301,2008,210347.0,New Mexico,2.0,NM,226304.0
+299,State,New Mexico,2009,128000,0.25,2009,710,EIC,32,EIC_totalreturns_state,301,2009,226304.0,New Mexico,2.0,NM,257224.0
+300,State,New York,2000,872000,0.19,2000,243,EIC,33,EIC_totalreturns_state,301,2000,1326071.0,New York,2.0,NY,1382687.0
+301,State,New York,2001,865000,0.19,2001,295,EIC,33,EIC_totalreturns_state,301,2001,1382687.0,New York,2.0,NY,1478526.0
+302,State,New York,2002,863000,0.19,2002,347,EIC,33,EIC_totalreturns_state,301,2002,1478526.0,New York,2.0,NY,1496689.0
+303,State,New York,2003,861000,0.19,2003,399,EIC,33,EIC_totalreturns_state,301,2003,1496689.0,New York,2.0,NY,1506529.0
+304,State,New York,2004,926000,0.21,2004,451,EIC,33,EIC_totalreturns_state,301,2004,1506529.0,New York,2.0,NY,1527318.0
+305,State,New York,2005,865000,0.19,2005,503,EIC,33,EIC_totalreturns_state,301,2005,1527318.0,New York,2.0,NY,1548208.0
+306,State,New York,2006,888000,0.2,2006,555,EIC,33,EIC_totalreturns_state,301,2006,1548208.0,New York,2.0,NY,1626782.0
+307,State,New York,2007,844000,0.19,2007,607,EIC,33,EIC_totalreturns_state,301,2007,1626782.0,New York,2.0,NY,1622113.0
+308,State,New York,2008,829000,0.19,2008,659,EIC,33,EIC_totalreturns_state,301,2008,1622113.0,New York,2.0,NY,1724969.0
+309,State,New York,2009,868000,0.2,2009,711,EIC,33,EIC_totalreturns_state,301,2009,1724969.0,New York,2.0,NY,1717697.0
+310,State,North Carolina,2000,354000,0.19,2000,244,EIC,34,EIC_totalreturns_state,301,2000,642264.0,North Carolina,2.0,NC,660829.0
+311,State,North Carolina,2001,399000,0.2,2001,296,EIC,34,EIC_totalreturns_state,301,2001,660829.0,North Carolina,2.0,NC,728321.0
+312,State,North Carolina,2002,420000,0.21,2002,348,EIC,34,EIC_totalreturns_state,301,2002,728321.0,North Carolina,2.0,NC,750951.0
+313,State,North Carolina,2003,382000,0.19,2003,400,EIC,34,EIC_totalreturns_state,301,2003,750951.0,North Carolina,2.0,NC,765997.0
+314,State,North Carolina,2004,455000,0.22,2004,452,EIC,34,EIC_totalreturns_state,301,2004,765997.0,North Carolina,2.0,NC,788523.0
+315,State,North Carolina,2005,449000,0.21,2005,504,EIC,34,EIC_totalreturns_state,301,2005,788523.0,North Carolina,2.0,NC,802542.0
+316,State,North Carolina,2006,429000,0.2,2006,556,EIC,34,EIC_totalreturns_state,301,2006,802542.0,North Carolina,2.0,NC,860966.0
+317,State,North Carolina,2007,426000,0.2,2007,608,EIC,34,EIC_totalreturns_state,301,2007,860966.0,North Carolina,2.0,NC,864536.0
+318,State,North Carolina,2008,440000,0.2,2008,660,EIC,34,EIC_totalreturns_state,301,2008,864536.0,North Carolina,2.0,NC,933383.0
+319,State,North Carolina,2009,505000,0.23,2009,712,EIC,34,EIC_totalreturns_state,301,2009,933383.0,North Carolina,2.0,NC,995077.0
+320,State,North Dakota,2000,23000,0.15,2000,245,EIC,35,EIC_totalreturns_state,301,2000,35122.0,North Dakota,2.0,ND,35372.0
+321,State,North Dakota,2001,20000,0.15,2001,297,EIC,35,EIC_totalreturns_state,301,2001,35372.0,North Dakota,2.0,ND,39829.0
+322,State,North Dakota,2002,19000,0.13,2002,349,EIC,35,EIC_totalreturns_state,301,2002,39829.0,North Dakota,2.0,ND,39850.0
+323,State,North Dakota,2003,20000,0.14,2003,401,EIC,35,EIC_totalreturns_state,301,2003,39850.0,North Dakota,2.0,ND,40047.0
+324,State,North Dakota,2004,21000,0.16,2004,453,EIC,35,EIC_totalreturns_state,301,2004,40047.0,North Dakota,2.0,ND,40222.0
+325,State,North Dakota,2005,18000,0.13,2005,505,EIC,35,EIC_totalreturns_state,301,2005,40222.0,North Dakota,2.0,ND,40433.0
+326,State,North Dakota,2006,18000,0.13,2006,557,EIC,35,EIC_totalreturns_state,301,2006,40433.0,North Dakota,2.0,ND,41538.0
+327,State,North Dakota,2007,19000,0.13,2007,609,EIC,35,EIC_totalreturns_state,301,2007,41538.0,North Dakota,2.0,ND,40669.0
+328,State,North Dakota,2008,21000,0.15,2008,661,EIC,35,EIC_totalreturns_state,301,2008,40669.0,North Dakota,2.0,ND,45579.0
+329,State,North Dakota,2009,18000,0.13,2009,713,EIC,35,EIC_totalreturns_state,301,2009,45579.0,North Dakota,2.0,ND,51513.0
+330,State,Ohio,2000,452000,0.16,2000,246,EIC,36,EIC_totalreturns_state,301,2000,676466.0,Ohio,2.0,OH,698056.0
+331,State,Ohio,2001,416000,0.16,2001,298,EIC,36,EIC_totalreturns_state,301,2001,698056.0,Ohio,2.0,OH,766972.0
+332,State,Ohio,2002,475000,0.17,2002,350,EIC,36,EIC_totalreturns_state,301,2002,766972.0,Ohio,2.0,OH,786642.0
+333,State,Ohio,2003,495000,0.18,2003,402,EIC,36,EIC_totalreturns_state,301,2003,786642.0,Ohio,2.0,OH,799412.0
+334,State,Ohio,2004,498000,0.18,2004,454,EIC,36,EIC_totalreturns_state,301,2004,799412.0,Ohio,2.0,OH,815691.0
+335,State,Ohio,2005,506000,0.19,2005,506,EIC,36,EIC_totalreturns_state,301,2005,815691.0,Ohio,2.0,OH,834951.0
+336,State,Ohio,2006,509000,0.19,2006,558,EIC,36,EIC_totalreturns_state,301,2006,834951.0,Ohio,2.0,OH,888325.0
+337,State,Ohio,2007,501000,0.19,2007,610,EIC,36,EIC_totalreturns_state,301,2007,888325.0,Ohio,2.0,OH,896168.0
+338,State,Ohio,2008,498000,0.19,2008,662,EIC,36,EIC_totalreturns_state,301,2008,896168.0,Ohio,2.0,OH,978788.0
+339,State,Ohio,2009,584000,0.22,2009,714,EIC,36,EIC_totalreturns_state,301,2009,978788.0,Ohio,2.0,OH,952243.0
+340,State,Oklahoma,2000,165000,0.19,2000,247,EIC,37,EIC_totalreturns_state,301,2000,273434.0,Oklahoma,2.0,OK,275526.0
+341,State,Oklahoma,2001,176000,0.2,2001,299,EIC,37,EIC_totalreturns_state,301,2001,275526.0,Oklahoma,2.0,OK,306513.0
+342,State,Oklahoma,2002,184000,0.22,2002,351,EIC,37,EIC_totalreturns_state,301,2002,306513.0,Oklahoma,2.0,OK,313632.0
+343,State,Oklahoma,2003,193000,0.22,2003,403,EIC,37,EIC_totalreturns_state,301,2003,313632.0,Oklahoma,2.0,OK,316231.0
+344,State,Oklahoma,2004,173000,0.21,2004,455,EIC,37,EIC_totalreturns_state,301,2004,316231.0,Oklahoma,2.0,OK,318879.0
+345,State,Oklahoma,2005,192000,0.23,2005,507,EIC,37,EIC_totalreturns_state,301,2005,318879.0,Oklahoma,2.0,OK,318312.0
+346,State,Oklahoma,2006,213000,0.24,2006,559,EIC,37,EIC_totalreturns_state,301,2006,318312.0,Oklahoma,2.0,OK,333169.0
+347,State,Oklahoma,2007,199000,0.22,2007,611,EIC,37,EIC_totalreturns_state,301,2007,333169.0,Oklahoma,2.0,OK,329642.0
+348,State,Oklahoma,2008,200000,0.23,2008,663,EIC,37,EIC_totalreturns_state,301,2008,329642.0,Oklahoma,2.0,OK,363203.0
+349,State,Oklahoma,2009,201000,0.22,2009,715,EIC,37,EIC_totalreturns_state,301,2009,363203.0,Oklahoma,2.0,OK,423082.0
+350,State,Oregon,2000,145000,0.18,2000,248,EIC,38,EIC_totalreturns_state,301,2000,193296.0,Oregon,2.0,OR,201421.0
+351,State,Oregon,2001,153000,0.18,2001,300,EIC,38,EIC_totalreturns_state,301,2001,201421.0,Oregon,2.0,OR,220957.0
+352,State,Oregon,2002,143000,0.17,2002,352,EIC,38,EIC_totalreturns_state,301,2002,220957.0,Oregon,2.0,OR,225019.0
+353,State,Oregon,2003,146000,0.18,2003,404,EIC,38,EIC_totalreturns_state,301,2003,225019.0,Oregon,2.0,OR,230211.0
+354,State,Oregon,2004,160000,0.19,2004,456,EIC,38,EIC_totalreturns_state,301,2004,230211.0,Oregon,2.0,OR,231934.0
+355,State,Oregon,2005,152000,0.18,2005,508,EIC,38,EIC_totalreturns_state,301,2005,231934.0,Oregon,2.0,OR,234892.0
+356,State,Oregon,2006,141000,0.17,2006,560,EIC,38,EIC_totalreturns_state,301,2006,234892.0,Oregon,2.0,OR,254771.0
+357,State,Oregon,2007,143000,0.17,2007,612,EIC,38,EIC_totalreturns_state,301,2007,254771.0,Oregon,2.0,OR,258435.0
+358,State,Oregon,2008,154000,0.18,2008,664,EIC,38,EIC_totalreturns_state,301,2008,258435.0,Oregon,2.0,OR,287840.0
+359,State,Oregon,2009,164000,0.19,2009,716,EIC,38,EIC_totalreturns_state,301,2009,287840.0,Oregon,2.0,OR,276548.0
+360,State,Pennsylvania,2000,440000,0.15,2000,249,EIC,39,EIC_totalreturns_state,301,2000,674406.0,Pennsylvania,2.0,PA,688567.0
+361,State,Pennsylvania,2001,418000,0.15,2001,301,EIC,39,EIC_totalreturns_state,301,2001,688567.0,Pennsylvania,2.0,PA,752491.0
+362,State,Pennsylvania,2002,429000,0.15,2002,353,EIC,39,EIC_totalreturns_state,301,2002,752491.0,Pennsylvania,2.0,PA,773232.0
+363,State,Pennsylvania,2003,435000,0.16,2003,405,EIC,39,EIC_totalreturns_state,301,2003,773232.0,Pennsylvania,2.0,PA,782517.0
+364,State,Pennsylvania,2004,466000,0.17,2004,457,EIC,39,EIC_totalreturns_state,301,2004,782517.0,Pennsylvania,2.0,PA,799335.0
+365,State,Pennsylvania,2005,461000,0.17,2005,509,EIC,39,EIC_totalreturns_state,301,2005,799335.0,Pennsylvania,2.0,PA,813171.0
+366,State,Pennsylvania,2006,465000,0.17,2006,561,EIC,39,EIC_totalreturns_state,301,2006,813171.0,Pennsylvania,2.0,PA,855479.0
+367,State,Pennsylvania,2007,447000,0.16,2007,613,EIC,39,EIC_totalreturns_state,301,2007,855479.0,Pennsylvania,2.0,PA,856884.0
+368,State,Pennsylvania,2008,455000,0.17,2008,665,EIC,39,EIC_totalreturns_state,301,2008,856884.0,Pennsylvania,2.0,PA,933664.0
+369,State,Pennsylvania,2009,467000,0.17,2009,717,EIC,39,EIC_totalreturns_state,301,2009,933664.0,Pennsylvania,2.0,PA,917428.0
+370,State,Rhode Island,2000,38000,0.16,2000,250,EIC,40,EIC_totalreturns_state,301,2000,58084.0,Rhode Island,2.0,RI,58737.0
+371,State,Rhode Island,2001,43000,0.18,2001,302,EIC,40,EIC_totalreturns_state,301,2001,58737.0,Rhode Island,2.0,RI,64418.0
+372,State,Rhode Island,2002,36000,0.15,2002,354,EIC,40,EIC_totalreturns_state,301,2002,64418.0,Rhode Island,2.0,RI,65419.0
+373,State,Rhode Island,2003,40000,0.17,2003,406,EIC,40,EIC_totalreturns_state,301,2003,65419.0,Rhode Island,2.0,RI,66332.0
+374,State,Rhode Island,2004,50000,0.21,2004,458,EIC,40,EIC_totalreturns_state,301,2004,66332.0,Rhode Island,2.0,RI,68034.0
+375,State,Rhode Island,2005,47000,0.19,2005,510,EIC,40,EIC_totalreturns_state,301,2005,68034.0,Rhode Island,2.0,RI,69434.0
+376,State,Rhode Island,2006,35000,0.15,2006,562,EIC,40,EIC_totalreturns_state,301,2006,69434.0,Rhode Island,2.0,RI,74630.0
+377,State,Rhode Island,2007,40000,0.17,2007,614,EIC,40,EIC_totalreturns_state,301,2007,74630.0,Rhode Island,2.0,RI,75871.0
+378,State,Rhode Island,2008,35000,0.15,2008,666,EIC,40,EIC_totalreturns_state,301,2008,75871.0,Rhode Island,2.0,RI,81074.0
+379,State,Rhode Island,2009,38000,0.17,2009,718,EIC,40,EIC_totalreturns_state,301,2009,81074.0,Rhode Island,2.0,RI,75951.0
+380,State,South Carolina,2000,192000,0.19,2000,251,EIC,41,EIC_totalreturns_state,301,2000,376046.0,South Carolina,2.0,SC,385542.0
+381,State,South Carolina,2001,197000,0.2,2001,303,EIC,41,EIC_totalreturns_state,301,2001,385542.0,South Carolina,2.0,SC,416142.0
+382,State,South Carolina,2002,190000,0.2,2002,355,EIC,41,EIC_totalreturns_state,301,2002,416142.0,South Carolina,2.0,SC,423517.0
+383,State,South Carolina,2003,188000,0.19,2003,407,EIC,41,EIC_totalreturns_state,301,2003,423517.0,South Carolina,2.0,SC,431190.0
+384,State,South Carolina,2004,229000,0.23,2004,459,EIC,41,EIC_totalreturns_state,301,2004,431190.0,South Carolina,2.0,SC,439010.0
+385,State,South Carolina,2005,229000,0.23,2005,511,EIC,41,EIC_totalreturns_state,301,2005,439010.0,South Carolina,2.0,SC,445367.0
+386,State,South Carolina,2006,226000,0.22,2006,563,EIC,41,EIC_totalreturns_state,301,2006,445367.0,South Carolina,2.0,SC,472489.0
+387,State,South Carolina,2007,218000,0.21,2007,615,EIC,41,EIC_totalreturns_state,301,2007,472489.0,South Carolina,2.0,SC,477905.0
+388,State,South Carolina,2008,228000,0.22,2008,667,EIC,41,EIC_totalreturns_state,301,2008,477905.0,South Carolina,2.0,SC,508356.0
+389,State,South Carolina,2009,259000,0.24,2009,719,EIC,41,EIC_totalreturns_state,301,2009,508356.0,South Carolina,2.0,SC,587939.0
+390,State,South Dakota,2000,27000,0.14,2000,252,EIC,42,EIC_totalreturns_state,301,2000,47039.0,South Dakota,2.0,SD,48045.0
+391,State,South Dakota,2001,26000,0.14,2001,304,EIC,42,EIC_totalreturns_state,301,2001,48045.0,South Dakota,2.0,SD,54573.0
+392,State,South Dakota,2002,27000,0.14,2002,356,EIC,42,EIC_totalreturns_state,301,2002,54573.0,South Dakota,2.0,SD,55442.0
+393,State,South Dakota,2003,26000,0.14,2003,408,EIC,42,EIC_totalreturns_state,301,2003,55442.0,South Dakota,2.0,SD,55869.0
+394,State,South Dakota,2004,27000,0.15,2004,460,EIC,42,EIC_totalreturns_state,301,2004,55869.0,South Dakota,2.0,SD,56415.0
+395,State,South Dakota,2005,33000,0.18,2005,512,EIC,42,EIC_totalreturns_state,301,2005,56415.0,South Dakota,2.0,SD,57436.0
+396,State,South Dakota,2006,32000,0.17,2006,564,EIC,42,EIC_totalreturns_state,301,2006,57436.0,South Dakota,2.0,SD,60141.0
+397,State,South Dakota,2007,33000,0.17,2007,616,EIC,42,EIC_totalreturns_state,301,2007,60141.0,South Dakota,2.0,SD,60067.0
+398,State,South Dakota,2008,34000,0.18,2008,668,EIC,42,EIC_totalreturns_state,301,2008,60067.0,South Dakota,2.0,SD,67195.0
+399,State,South Dakota,2009,35000,0.19,2009,720,EIC,42,EIC_totalreturns_state,301,2009,67195.0,South Dakota,2.0,SD,69489.0
+400,State,Tennessee,2000,267000,0.2,2000,253,EIC,43,EIC_totalreturns_state,301,2000,479050.0,Tennessee,2.0,TN,489706.0
+401,State,Tennessee,2001,285000,0.21,2001,305,EIC,43,EIC_totalreturns_state,301,2001,489706.0,Tennessee,2.0,TN,532746.0
+402,State,Tennessee,2002,270000,0.2,2002,357,EIC,43,EIC_totalreturns_state,301,2002,532746.0,Tennessee,2.0,TN,546625.0
+403,State,Tennessee,2003,272000,0.2,2003,409,EIC,43,EIC_totalreturns_state,301,2003,546625.0,Tennessee,2.0,TN,551439.0
+404,State,Tennessee,2004,286000,0.21,2004,461,EIC,43,EIC_totalreturns_state,301,2004,551439.0,Tennessee,2.0,TN,565090.0
+405,State,Tennessee,2005,291000,0.21,2005,513,EIC,43,EIC_totalreturns_state,301,2005,565090.0,Tennessee,2.0,TN,578868.0
+406,State,Tennessee,2006,322000,0.23,2006,565,EIC,43,EIC_totalreturns_state,301,2006,578868.0,Tennessee,2.0,TN,614704.0
+407,State,Tennessee,2007,331000,0.23,2007,617,EIC,43,EIC_totalreturns_state,301,2007,614704.0,Tennessee,2.0,TN,626531.0
+408,State,Tennessee,2008,316000,0.22,2008,669,EIC,43,EIC_totalreturns_state,301,2008,626531.0,Tennessee,2.0,TN,675912.0
+409,State,Tennessee,2009,350000,0.24,2009,721,EIC,43,EIC_totalreturns_state,301,2009,675912.0,Tennessee,2.0,TN,719839.0
+410,State,Texas,2000,1254000,0.22,2000,254,EIC,44,EIC_totalreturns_state,301,2000,1856111.0,Texas,2.0,TX,1906013.0
+411,State,Texas,2001,1239000,0.21,2001,306,EIC,44,EIC_totalreturns_state,301,2001,1906013.0,Texas,2.0,TX,2095148.0
+412,State,Texas,2002,1310000,0.22,2002,358,EIC,44,EIC_totalreturns_state,301,2002,2095148.0,Texas,2.0,TX,2161725.0
+413,State,Texas,2003,1406000,0.23,2003,410,EIC,44,EIC_totalreturns_state,301,2003,2161725.0,Texas,2.0,TX,2220726.0
+414,State,Texas,2004,1412000,0.23,2004,462,EIC,44,EIC_totalreturns_state,301,2004,2220726.0,Texas,2.0,TX,2288849.0
+415,State,Texas,2005,1548000,0.25,2005,514,EIC,44,EIC_totalreturns_state,301,2005,2288849.0,Texas,2.0,TX,2308824.0
+416,State,Texas,2006,1527000,0.24,2006,566,EIC,44,EIC_totalreturns_state,301,2006,2308824.0,Texas,2.0,TX,2417422.0
+417,State,Texas,2007,1513000,0.23,2007,618,EIC,44,EIC_totalreturns_state,301,2007,2417422.0,Texas,2.0,TX,2417062.0
+418,State,Texas,2008,1498000,0.23,2008,670,EIC,44,EIC_totalreturns_state,301,2008,2417062.0,Texas,2.0,TX,2675998.0
+419,State,Texas,2009,1661000,0.24,2009,722,EIC,44,EIC_totalreturns_state,301,2009,2675998.0,Texas,2.0,TX,3043041.0
+420,State,Utah,2000,72000,0.1,2000,255,EIC,45,EIC_totalreturns_state,301,2000,107538.0,Utah,2.0,UT,112184.0
+421,State,Utah,2001,64000,0.09,2001,307,EIC,45,EIC_totalreturns_state,301,2001,112184.0,Utah,2.0,UT,132453.0
+422,State,Utah,2002,95000,0.14,2002,359,EIC,45,EIC_totalreturns_state,301,2002,132453.0,Utah,2.0,UT,139710.0
+423,State,Utah,2003,86000,0.12,2003,411,EIC,45,EIC_totalreturns_state,301,2003,139710.0,Utah,2.0,UT,143034.0
+424,State,Utah,2004,97000,0.13,2004,463,EIC,45,EIC_totalreturns_state,301,2004,143034.0,Utah,2.0,UT,145622.0
+425,State,Utah,2005,80000,0.11,2005,515,EIC,45,EIC_totalreturns_state,301,2005,145622.0,Utah,2.0,UT,145562.0
+426,State,Utah,2006,93000,0.12,2006,567,EIC,45,EIC_totalreturns_state,301,2006,145562.0,Utah,2.0,UT,156071.0
+427,State,Utah,2007,89000,0.11,2007,619,EIC,45,EIC_totalreturns_state,301,2007,156071.0,Utah,2.0,UT,164055.0
+428,State,Utah,2008,88000,0.11,2008,671,EIC,45,EIC_totalreturns_state,301,2008,164055.0,Utah,2.0,UT,195696.0
+429,State,Utah,2009,105000,0.12,2009,723,EIC,45,EIC_totalreturns_state,301,2009,195696.0,Utah,2.0,UT,157437.0
+430,State,Vermont,2000,18000,0.13,2000,256,EIC,46,EIC_totalreturns_state,301,2000,32581.0,Vermont,2.0,VT,33050.0
+431,State,Vermont,2001,19000,0.15,2001,308,EIC,46,EIC_totalreturns_state,301,2001,33050.0,Vermont,2.0,VT,37139.0
+432,State,Vermont,2002,13000,0.1,2002,360,EIC,46,EIC_totalreturns_state,301,2002,37139.0,Vermont,2.0,VT,38323.0
+433,State,Vermont,2003,16000,0.12,2003,412,EIC,46,EIC_totalreturns_state,301,2003,38323.0,Vermont,2.0,VT,38471.0
+434,State,Vermont,2004,15000,0.12,2004,464,EIC,46,EIC_totalreturns_state,301,2004,38471.0,Vermont,2.0,VT,38824.0
+435,State,Vermont,2005,20000,0.15,2005,516,EIC,46,EIC_totalreturns_state,301,2005,38824.0,Vermont,2.0,VT,39236.0
+436,State,Vermont,2006,17000,0.13,2006,568,EIC,46,EIC_totalreturns_state,301,2006,39236.0,Vermont,2.0,VT,41357.0
+437,State,Vermont,2007,16000,0.12,2007,620,EIC,46,EIC_totalreturns_state,301,2007,41357.0,Vermont,2.0,VT,42141.0
+438,State,Vermont,2008,17000,0.13,2008,672,EIC,46,EIC_totalreturns_state,301,2008,42141.0,Vermont,2.0,VT,46340.0
+439,State,Vermont,2009,16000,0.13,2009,724,EIC,46,EIC_totalreturns_state,301,2009,46340.0,Vermont,2.0,VT,46959.0
+440,State,Virginia,2000,219000,0.13,2000,257,EIC,47,EIC_totalreturns_state,301,2000,426677.0,Virginia,2.0,VA,436060.0
+441,State,Virginia,2001,219000,0.12,2001,309,EIC,47,EIC_totalreturns_state,301,2001,436060.0,Virginia,2.0,VA,486551.0
+442,State,Virginia,2002,238000,0.14,2002,361,EIC,47,EIC_totalreturns_state,301,2002,486551.0,Virginia,2.0,VA,500464.0
+443,State,Virginia,2003,205000,0.12,2003,413,EIC,47,EIC_totalreturns_state,301,2003,500464.0,Virginia,2.0,VA,500323.0
+444,State,Virginia,2004,227000,0.13,2004,465,EIC,47,EIC_totalreturns_state,301,2004,500323.0,Virginia,2.0,VA,503896.0
+445,State,Virginia,2005,238000,0.13,2005,517,EIC,47,EIC_totalreturns_state,301,2005,503896.0,Virginia,2.0,VA,510060.0
+446,State,Virginia,2006,216000,0.12,2006,569,EIC,47,EIC_totalreturns_state,301,2006,510060.0,Virginia,2.0,VA,545436.0
+447,State,Virginia,2007,234000,0.13,2007,621,EIC,47,EIC_totalreturns_state,301,2007,545436.0,Virginia,2.0,VA,552941.0
+448,State,Virginia,2008,247000,0.14,2008,673,EIC,47,EIC_totalreturns_state,301,2008,552941.0,Virginia,2.0,VA,605673.0
+449,State,Virginia,2009,253000,0.14,2009,725,EIC,47,EIC_totalreturns_state,301,2009,605673.0,Virginia,2.0,VA,627523.0
+450,State,Washington,2000,239000,0.16,2000,258,EIC,48,EIC_totalreturns_state,301,2000,300031.0,Washington,2.0,WA,308030.0
+451,State,Washington,2001,209000,0.14,2001,310,EIC,48,EIC_totalreturns_state,301,2001,308030.0,Washington,2.0,WA,343911.0
+452,State,Washington,2002,226000,0.15,2002,362,EIC,48,EIC_totalreturns_state,301,2002,343911.0,Washington,2.0,WA,354648.0
+453,State,Washington,2003,203000,0.14,2003,414,EIC,48,EIC_totalreturns_state,301,2003,354648.0,Washington,2.0,WA,363727.0
+454,State,Washington,2004,252000,0.17,2004,466,EIC,48,EIC_totalreturns_state,301,2004,363727.0,Washington,2.0,WA,364929.0
+455,State,Washington,2005,219000,0.15,2005,518,EIC,48,EIC_totalreturns_state,301,2005,364929.0,Washington,2.0,WA,367281.0
+456,State,Washington,2006,231000,0.15,2006,570,EIC,48,EIC_totalreturns_state,301,2006,367281.0,Washington,2.0,WA,394028.0
+457,State,Washington,2007,226000,0.15,2007,622,EIC,48,EIC_totalreturns_state,301,2007,394028.0,Washington,2.0,WA,399088.0
+458,State,Washington,2008,217000,0.14,2008,674,EIC,48,EIC_totalreturns_state,301,2008,399088.0,Washington,2.0,WA,447916.0
+459,State,Washington,2009,251000,0.16,2009,726,EIC,48,EIC_totalreturns_state,301,2009,447916.0,Washington,2.0,WA,394320.0
+460,State,West Virginia,2000,103000,0.26,2000,259,EIC,49,EIC_totalreturns_state,301,2000,133149.0,West Virginia,2.0,WV,133414.0
+461,State,West Virginia,2001,90000,0.23,2001,311,EIC,49,EIC_totalreturns_state,301,2001,133414.0,West Virginia,2.0,WV,144103.0
+462,State,West Virginia,2002,96000,0.25,2002,363,EIC,49,EIC_totalreturns_state,301,2002,144103.0,West Virginia,2.0,WV,145936.0
+463,State,West Virginia,2003,98000,0.25,2003,415,EIC,49,EIC_totalreturns_state,301,2003,145936.0,West Virginia,2.0,WV,145376.0
+464,State,West Virginia,2004,93000,0.24,2004,467,EIC,49,EIC_totalreturns_state,301,2004,145376.0,West Virginia,2.0,WV,146840.0
+465,State,West Virginia,2005,95000,0.26,2005,519,EIC,49,EIC_totalreturns_state,301,2005,146840.0,West Virginia,2.0,WV,146996.0
+466,State,West Virginia,2006,96000,0.25,2006,571,EIC,49,EIC_totalreturns_state,301,2006,146996.0,West Virginia,2.0,WV,155013.0
+467,State,West Virginia,2007,86000,0.23,2007,623,EIC,49,EIC_totalreturns_state,301,2007,155013.0,West Virginia,2.0,WV,152595.0
+468,State,West Virginia,2008,87000,0.23,2008,675,EIC,49,EIC_totalreturns_state,301,2008,152595.0,West Virginia,2.0,WV,166374.0
+469,State,West Virginia,2009,89000,0.24,2009,727,EIC,49,EIC_totalreturns_state,301,2009,166374.0,West Virginia,2.0,WV,190989.0
+470,State,Wisconsin,2000,155000,0.12,2000,260,EIC,50,EIC_totalreturns_state,301,2000,243219.0,Wisconsin,2.0,WI,252517.0
+471,State,Wisconsin,2001,177000,0.14,2001,312,EIC,50,EIC_totalreturns_state,301,2001,252517.0,Wisconsin,2.0,WI,284956.0
+472,State,Wisconsin,2002,179000,0.14,2002,364,EIC,50,EIC_totalreturns_state,301,2002,284956.0,Wisconsin,2.0,WI,293418.0
+473,State,Wisconsin,2003,187000,0.14,2003,416,EIC,50,EIC_totalreturns_state,301,2003,293418.0,Wisconsin,2.0,WI,299351.0
+474,State,Wisconsin,2004,179000,0.14,2004,468,EIC,50,EIC_totalreturns_state,301,2004,299351.0,Wisconsin,2.0,WI,309552.0
+475,State,Wisconsin,2005,177000,0.14,2005,520,EIC,50,EIC_totalreturns_state,301,2005,309552.0,Wisconsin,2.0,WI,319157.0
+476,State,Wisconsin,2006,192000,0.15,2006,572,EIC,50,EIC_totalreturns_state,301,2006,319157.0,Wisconsin,2.0,WI,340967.0
+477,State,Wisconsin,2007,187000,0.14,2007,624,EIC,50,EIC_totalreturns_state,301,2007,340967.0,Wisconsin,2.0,WI,347667.0
+478,State,Wisconsin,2008,172000,0.13,2008,676,EIC,50,EIC_totalreturns_state,301,2008,347667.0,Wisconsin,2.0,WI,393540.0
+479,State,Wisconsin,2009,214000,0.17,2009,728,EIC,50,EIC_totalreturns_state,301,2009,393540.0,Wisconsin,2.0,WI,352418.0
+480,State,Wyoming,2000,19000,0.15,2000,261,EIC,51,EIC_totalreturns_state,301,2000,30551.0,Wyoming,2.0,WY,30199.0
+481,State,Wyoming,2001,16000,0.13,2001,313,EIC,51,EIC_totalreturns_state,301,2001,30199.0,Wyoming,2.0,WY,33557.0
+482,State,Wyoming,2002,17000,0.14,2002,365,EIC,51,EIC_totalreturns_state,301,2002,33557.0,Wyoming,2.0,WY,34479.0
+483,State,Wyoming,2003,14000,0.12,2003,417,EIC,51,EIC_totalreturns_state,301,2003,34479.0,Wyoming,2.0,WY,33975.0
+484,State,Wyoming,2004,16000,0.14,2004,469,EIC,51,EIC_totalreturns_state,301,2004,33975.0,Wyoming,2.0,WY,33208.0
+485,State,Wyoming,2005,12000,0.11,2005,521,EIC,51,EIC_totalreturns_state,301,2005,33208.0,Wyoming,2.0,WY,32538.0
+486,State,Wyoming,2006,14000,0.12,2006,573,EIC,51,EIC_totalreturns_state,301,2006,32538.0,Wyoming,2.0,WY,33987.0
+487,State,Wyoming,2007,14000,0.12,2007,625,EIC,51,EIC_totalreturns_state,301,2007,33987.0,Wyoming,2.0,WY,33807.0
+488,State,Wyoming,2008,15000,0.12,2008,677,EIC,51,EIC_totalreturns_state,301,2008,33807.0,Wyoming,2.0,WY,39407.0
+489,State,Wyoming,2009,16000,0.13,2009,729,EIC,51,EIC_totalreturns_state,301,2009,39407.0,Wyoming,2.0,WY,46033.0

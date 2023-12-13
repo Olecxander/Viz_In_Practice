@@ -4,3 +4,30 @@
 --limit scope to primary goal of EITC - Child Poverty
 --interactive/exploratory elements
 --STORY + CTA/argue a main point.
+
+--return on investment.
+
+N59660
+
+N59660	Number of returns with earned income credit	1040:27	Num
+A59660	Earned income credit amount [12]  	1040:27	Num
+N59720	Number of returns with excess earned income credit	1040:27	Num
+A59720	Excess earned income credit (refundable) amount [13]  	1040:27	Num
+
+N11070	Number of returns with additional child tax credit	1040:28	Num
+A11070	Additional child tax credit amount	1040:28	Num
+
+
+STATE	The state associated with the return	Two-digit state abbreviation code		Char
+AGI_STUB	Size of adjusted gross income	0 = No AGI Stub
+1 = ‘Under $1’
+2 = '$1 under $10,000'
+3 = '$10,000 under $25,000'
+4 = '$25,000 under $50,000'
+5 = '$50,000 under $75,000'
+6 = '$75,000 under $100,000'
+7 = '$100,000 under $200,000'
+8 = ‘$200,000 under $500,000’
+9 = ‘$500,000 under $1,000,000’
+10 = ‘$1,000,000 or more’		Num
+N1	Number of returns [3]			Num
